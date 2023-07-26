@@ -3853,6 +3853,10 @@
         <tab>standard-WorkType</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
+    <tabVisibilities>
+        <tab>standard-home</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <userLicense>Force.com - Free</userLicense>
     <userPermissions>
         <enabled>true</enabled>
